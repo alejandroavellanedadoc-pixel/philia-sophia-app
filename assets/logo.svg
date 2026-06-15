@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="180" viewBox="0 0 640 180">
+<rect width="640" height="180" rx="28" fill="#f7efe5"/>
+<circle cx="92" cy="90" r="52" fill="#704023" opacity="0.95"/>
+<path d="M62 92c22-22 38-22 60 0M62 110c24-14 44-14 68 0" stroke="#fff7ed" stroke-width="8" stroke-linecap="round" fill="none"/>
+<text x="168" y="78" font-family="Georgia, serif" font-size="36" fill="#3f2b1f" font-weight="700">Fundación Philia Sophia</text>
+<text x="168" y="118" font-family="Arial, sans-serif" font-size="19" fill="#704023">Calendario pedagógico y planificación de recursos</text>
+</svg>
